@@ -1,6 +1,6 @@
 
 -👋Hello there, I am Lamia kabir prapti.
-I am currently studying in Brac university in 6th semester. 
+I am currently studying in Brac university in 7th semester. 
 Robotics Enthusiast and an active Member of the Robotics Club.
 Currently exploring opportunities in projects and research to eradicate the gap between theory and real world applications.
 - Have a knowledge about python,data structure
