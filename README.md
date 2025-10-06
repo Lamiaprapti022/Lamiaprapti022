@@ -6,7 +6,7 @@ Currently exploring opportunities in projects and research to eradicate the gap 
 - Have a knowledge about python,data structure
 - ✅️ Open to collaboration on different projects and upgrade my skills more
 - has built a small automated LFR car for the Robotics project with my team mates.
-- recenlty working on a project which is about finding the right researchmate by matching interests.
+- worked on a project which is about finding the right researchmate by matching interests.
 - recently had a experience of a hackathon named UNESCO MIL Youth hackathon.
 
 
